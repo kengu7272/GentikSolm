@@ -16,6 +16,4 @@
 </h1>
 </div>
 
-<!--
-https://www.sitepoint.com/github-profile-readme/
---!>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gentiksolm&theme=dark&background=000000)](https://git.io/streak-stats)
