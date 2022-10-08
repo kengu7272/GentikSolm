@@ -16,7 +16,7 @@
 </h1>
 </div>
 
-## I'm Josh
+# I'm Josh
 A little bit about me
 - 👨‍🎓 Im a full time student at Akron U
 - 💼 CEO of Brunus Labs LLC
@@ -36,6 +36,7 @@ A little bit about me
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" title="Docker" **alt="Docker" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"  title="Bash" **alt="Bash" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"  title="cplusplus" **alt="cplusplus" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" title="lua" **alt="lua" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" title="matlab" **alt="matlab" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="mongodb" **alt="mongodb" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" title="nginx" **alt="nginx" width="40" />
@@ -46,4 +47,6 @@ A little bit about me
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gentiksolm&theme=dark&background=000000)](https://git.io/streak-stats)
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gentiksolm&theme=prussian)](https://git.io/streak-stats)
+ [![Josh's GitHub stats](https://github-readme-stats.vercel.app/api?username=gentiksolm&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gentiksolm&count_private=true&show_icons=true&theme=prussian&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
