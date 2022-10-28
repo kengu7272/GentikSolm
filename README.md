@@ -7,7 +7,12 @@
   <a href="https://brunuslabs.com">
     <img src="https://img.shields.io/badge/BrunusLabs-orange?style=for-the-badge" alt="Brunus Labs"/>
   </a>
+
 </div>
+  <a href="https://www.conventionalcommits.org/en/v1.0.0/">
+ <img src="https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?logo=conventionalcommits&logoColor=white)](https://conventionalcommits.org"/>
+</a>
+<br/>
   <img src="https://komarev.com/ghpvc/?username=GentikSolm&style=flat-square&color=blue" alt=""/>
 
   <h1>
