@@ -52,6 +52,14 @@ A little bit about me
 ---
 
 ### :fire: My Stats :
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gentiksolm&theme=prussian)](https://git.io/streak-stats)
- [![Josh's GitHub stats](https://github-readme-stats.vercel.app/api?username=gentiksolm&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gentiksolm&count_private=true&show_icons=true&theme=prussian&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=gentiksolm&theme=prussian" />
+  </p>
+  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gentiksolm&theme=prussian" />
+  </p>
+  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gentiksolm&count_private=true&show_icons=true&theme=prussian&layout=compact" />
+</p>
+ 
