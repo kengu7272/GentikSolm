@@ -53,13 +53,4 @@ A little bit about me
 
 ### :fire: My Stats :
  
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=gentiksolm&theme=prussian" />
-  </p>
-  <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gentiksolm&theme=prussian" />
-  </p>
-  <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gentiksolm&count_private=true&show_icons=true&theme=prussian&layout=compact" />
-</p>
- 
+<img src="/github-metrics.svg" alt="Metrics" width="100%">
