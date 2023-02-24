@@ -15,7 +15,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           # Plugins go brrr
-          base: header
+          base: repositories, header, activity
           config_timezone: America/New_York
 
           plugin_activity: yes
