@@ -14,3 +14,18 @@ jobs:
       - uses: lowlighter/metrics@main
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+          # Plugins go brrr
+          base: header
+          config_timezone: America/New_York
+
+          plugin_activity: yes
+          plugin_activity_days: 0
+          plugin_activity_filter: issue, pr, release, fork, review, ref/create
+
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+          plugin_languages: yes
+          plugin_languages_details: bytes-size, percentage
+
+          plugin_lines: yes
