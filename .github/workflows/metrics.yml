@@ -30,4 +30,4 @@ jobs:
           plugin_languages_details: bytes-size, percentage
 
           plugin_lines: yes
-          plugin_lines_sections: repositories, history
+          plugin_lines_sections: repositories, base
