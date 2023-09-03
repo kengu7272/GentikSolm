@@ -28,7 +28,7 @@ A little bit about me
   - Major in Applied Math
   - Minor in Statistics
   - Minor in Business Administration
-- 💼 CEO of Brunus Labs LLC
+- 💼 CTO at Biblish LLC
 - 🛹 I really, really love longboarding
 - 📘 Obsessed with learning
 
