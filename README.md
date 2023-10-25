@@ -21,8 +21,7 @@
 </h1>
 </div>
 
-# I'm Josh
-https://imjosh.dev  
+# [I'm Josh](https://imjosh.dev)
 A little bit about me
 - 👨‍🎓 Graduated from Akron U
   - Major in CS
