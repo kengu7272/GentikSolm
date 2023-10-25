@@ -4,8 +4,8 @@
   <a href="https://linkedin.com/in/joshgbrown">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://brunuslabs.com">
-    <img src="https://img.shields.io/badge/BrunusLabs-orange?style=for-the-badge" alt="Brunus Labs"/>
+  <a href="https://papertrail.biblish.com">
+    <img src="https://img.shields.io/badge/Papertrail-darkgreen?style=for-the-badge" alt="Papertrail"/>
   </a>
 
 </div>
