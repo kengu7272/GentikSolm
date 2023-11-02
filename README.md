@@ -14,20 +14,10 @@
 </a>
 <br/>
   <img src="https://komarev.com/ghpvc/?username=GentikSolm&style=flat-square&color=blue" alt=""/>
-
-  <h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
 </div>
 
-# [I'm Josh](https://imjosh.dev)
-A little bit about me
-- 👨‍🎓 Graduated from Akron U
-  - Major in CS
-  - Major in Applied Math
-  - Minor in Statistics
-  - Minor in Business Administration
-- 💼 CTO at Biblish LLC
-- 🛹 I really, really love longboarding
-- 📘 Obsessed with learning
+# Hey there, [I'm Josh](https://imjosh.dev) <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="30px" alt='wave'/>
+
+Creator of [Papertrail](https://papertrail.biblish.com), and lover of code.
+
+I also like to pick up heavy circles and then put them down again.
