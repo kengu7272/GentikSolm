@@ -18,6 +18,8 @@
 
 # Hey there, [I'm Josh](https://imjosh.dev) <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="30px" alt='wave'/>
 
-Creator of [Papertrail](https://papertrail.biblish.com), and lover of code.
+You can find me working on [Sybil](https://sybil.com). 
 
-I also like to pick up heavy circles and then put them down again.
+Some of my past work includes everything under [Biblish](https://biblish.com), like [Papertrail](https://papertrail.biblish.com).
+
+I also like contributing to [UplaodThing](https://uploadthing.com) and other open source projects when I can.
