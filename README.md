@@ -22,4 +22,4 @@ You can find me working on [Sybil](https://sybil.com).
 
 Some of my past work includes everything under [Biblish](https://biblish.com), like [Papertrail](https://papertrail.biblish.com).
 
-I also like contributing to [UplaodThing](https://uploadthing.com) and other open source projects when I can.
+I also like contributing to [UploadThing](https://uploadthing.com) and other open source projects when I can.
